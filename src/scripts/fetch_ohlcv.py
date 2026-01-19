@@ -16,6 +16,12 @@ from dotenv import load_dotenv
 # Config
 # -------------------------
 load_dotenv()
+# Rolling window
+LOOKBACK_YEARS = 2
+DEFAULT_SYMBOLS = [
+    "TSLA", "INTC", "AMD", "AMZN", "MU", "LAES",
+    "QQQ", "IVV"
+]
 
 API_KEY = os.getenv("POLYGON_API_KEY", "").strip()
 if not API_KEY:
@@ -153,12 +159,11 @@ def fetch_aggs(symbol: str, multiplier: int, timespan: str, start: str, end: str
 # -------------------------
 def load_universe(path: Path) -> List[str]:
     if not path.exists():
-        # default demo
-        return ["AAPL", "TSLA", "INTC"]
+        return DEFAULT_SYMBOLS
     obj = yaml.safe_load(path.read_text(encoding="utf-8"))
     syms = obj.get("symbols", [])
     if not syms:
-        return ["AAPL", "TSLA", "INTC"]
+        return DEFAULT_SYMBOLS
     return [str(s).strip().upper() for s in syms if str(s).strip()]
 
 
@@ -181,12 +186,9 @@ def main():
         old = load_cached(p)
 
         # incremental start: last date + 1 day (for daily bars)
-        if old is not None and not old.empty:
-            last_dt = old.index.max()
-            # start next day (safe)
-            start = (last_dt + pd.Timedelta(days=1)).date().isoformat()
-        else:
-            start = "2020-01-01"
+        today_ts = pd.Timestamp.utcnow().normalize()
+        start_ts = today_ts - pd.DateOffset(years=LOOKBACK_YEARS)
+        start = start_ts.date().isoformat()
 
         # if already up-to-date
         if start >= today:
@@ -200,6 +202,7 @@ def main():
             continue
 
         df_all = merge_incremental(old, df_new)
+        df_all = df_all[df_all.index >= start_ts]
         save_cached(df_all, p)
         print(f"[OK] {sym} rows={len(df_all)} saved -> {p}")
 
