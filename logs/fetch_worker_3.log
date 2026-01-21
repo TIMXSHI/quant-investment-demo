@@ -1,0 +1,1598 @@
+2026-01-21 05:13:16 [W3] shard_index=3/4 symbols=901 head=['AAME', 'AARD', 'ABEO', 'ABP', 'ABTS'] tail=['ZG', 'ZJYL', 'ZNTL', 'ZTEK', 'ZVRA']
+2026-01-21 05:13:16 [W3 1/901] AAME: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 2/901] AARD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 3/901] ABEO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 4/901] ABP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 5/901] ABTS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 6/901] ACAD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 7/901] ACET: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 8/901] ACHC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 9/901] ACIW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 10/901] ACN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 11/901] ACON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 12/901] ACTG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 13/901] ADAMG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 14/901] ADAMO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 15/901] ADGM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 16/901] ADMA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 17/901] ADSK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 18/901] ADUS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 19/901] AEC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 20/901] AEI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 21/901] AEP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 22/901] AEYE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 23/901] AFL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 24/901] AGAE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 25/901] AGIO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 26/901] AGNCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 27/901] AHCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 28/901] AIG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 29/901] AIOT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 30/901] AIRJ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 31/901] AISP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 32/901] AKAM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 33/901] ALAB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:16 [W3 34/901] ALCY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 35/901] ALF: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=ALF
+2026-01-21 05:13:17 [W3 36/901] ALGT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 37/901] ALKT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 38/901] ALLR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 39/901] ALMU: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 40/901] ALPS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 41/901] ALTI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 42/901] ALXO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 43/901] AMBA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 44/901] AMD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 45/901] AMKR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 46/901] AMPG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 47/901] AMSC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 48/901] AMTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 49/901] ANDE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 50/901] ANGI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 51/901] ANIX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 52/901] ANSC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 53/901] AON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 54/901] APA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 55/901] APEI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 56/901] APLM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 57/901] APO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 58/901] APPN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 59/901] APVO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 60/901] AQB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 61/901] ARAY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 62/901] ARCC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 63/901] AREB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 64/901] ARKO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 65/901] ARQ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 66/901] ARTL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 67/901] ARVN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 68/901] ASMB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 69/901] ASPI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 70/901] ASST: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 71/901] ASTI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 72/901] ASYS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 73/901] ATER: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 74/901] ATII: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 75/901] ATLN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 76/901] ATO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 77/901] ATPC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 78/901] ATXG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 79/901] AUDC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 80/901] AUR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 81/901] AVAH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 82/901] AVBP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 83/901] AVNW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 84/901] AVT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 85/901] AVY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 86/901] AXGN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 87/901] AXSM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 88/901] AZI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 89/901] BAC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 90/901] BAFN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 91/901] BANL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 92/901] BATRA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 93/901] BBCP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 94/901] BBNX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 95/901] BCAB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:13:17 [W3 96/901] BCBP: OK mode=incremental used=BCBP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:18 [W3 97/901] BCML: OK mode=incremental used=BCML window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:18 [W3 98/901] BCTXL: OK mode=incremental used=BCTXL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:18 [W3 99/901] BDTX: OK mode=incremental used=BDTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:19 [W3 100/901] BEAT: OK mode=incremental used=BEAT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:19 [W3 101/901] BELFB: OK mode=incremental used=BELFB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:20 [W3 102/901] BF.B: OK mode=incremental used=BF.B window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:20 [W3 103/901] BFST: OK mode=incremental used=BFST window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:20 [W3 104/901] BGL: OK mode=incremental used=BGL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:21 [W3 105/901] BHAT: OK mode=incremental used=BHAT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:21 [W3 106/901] BHFAN: OK mode=incremental used=BHFAN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:22 [W3 107/901] BIAF: OK mode=incremental used=BIAF window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:22 [W3 108/901] BIRD: OK mode=incremental used=BIRD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:22 [W3 109/901] BIYA: OK mode=incremental used=BIYA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:23 [W3 110/901] BKHA: OK mode=incremental used=BKHA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:23 [W3 111/901] BL: OK mode=incremental used=BL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:24 [W3 112/901] BLDR: OK mode=incremental used=BLDR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:24 [W3 113/901] BLIV: OK mode=incremental used=BLIV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:24 [W3 114/901] BLMN: OK mode=incremental used=BLMN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:25 [W3 115/901] BLZE: OK mode=incremental used=BLZE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:26 [W3 116/901] BMGL: OK mode=incremental used=BMGL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:26 [W3 117/901] BMRC: OK mode=incremental used=BMRC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:26 [W3 118/901] BNBX: OK mode=incremental used=BNBX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:27 [W3 119/901] BNRG: OK mode=incremental used=BNRG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:27 [W3 120/901] BOF: OK mode=incremental used=BOF window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:28 [W3 121/901] BON: OK mode=incremental used=BON window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:28 [W3 122/901] BOXL: OK mode=incremental used=BOXL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:28 [W3 123/901] BPYPM: OK mode=incremental used=BPYPM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:29 [W3 124/901] BRAG: OK mode=incremental used=BRAG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:29 [W3 125/901] BRK.B: OK mode=incremental used=BRK.B window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:30 [W3 126/901] BRO: OK mode=incremental used=BRO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:30 [W3 127/901] BSAA: OK mode=incremental used=BSAA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:30 [W3 128/901] BSVN: OK mode=incremental used=BSVN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:31 [W3 129/901] BTBD: OK mode=incremental used=BTBD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:31 [W3 130/901] BTDR: OK mode=incremental used=BTDR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:32 [W3 131/901] BTOG: OK mode=incremental used=BTOG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:32 [W3 132/901] BULL: OK mode=incremental used=BULL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:32 [W3 133/901] BVFL: OK mode=incremental used=BVFL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:33 [W3 134/901] BWEN: OK mode=incremental used=BWEN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:33 [W3 135/901] BX: OK mode=incremental used=BX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:34 [W3 136/901] BYND: OK mode=incremental used=BYND window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:34 [W3 137/901] BZFD: OK mode=incremental used=BZFD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:34 [W3 138/901] CABR: OK mode=incremental used=CABR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:35 [W3 139/901] CAEP: OK mode=incremental used=CAEP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:35 [W3 140/901] CAKE: OK mode=incremental used=CAKE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:35 [W3 141/901] CAMT: OK mode=incremental used=CAMT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:36 [W3 142/901] CAPT: OK mode=incremental used=CAPT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:36 [W3 143/901] CARL: OK mode=incremental used=CARL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:37 [W3 144/901] CASI: OK mode=incremental used=CASI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:37 [W3 145/901] CATY: OK mode=incremental used=CATY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:37 [W3 146/901] CBFV: OK mode=incremental used=CBFV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:38 [W3 147/901] CBNK: OK mode=incremental used=CBNK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:38 [W3 148/901] CBSH: OK mode=incremental used=CBSH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:39 [W3 149/901] CCBG: OK mode=incremental used=CCBG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:39 [W3 150/901] CCD: OK mode=incremental used=CCD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:39 [W3 151/901] CCHH: OK mode=incremental used=CCHH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:40 [W3 152/901] CCL: OK mode=incremental used=CCL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:40 [W3 153/901] CCRN: OK mode=incremental used=CCRN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:41 [W3 154/901] CDIO: OK mode=incremental used=CDIO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:41 [W3 155/901] CDNS: OK mode=incremental used=CDNS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:41 [W3 156/901] CDW: OK mode=incremental used=CDW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:42 [W3 157/901] CEG: OK mode=incremental used=CEG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:42 [W3 158/901] CELZ: OK mode=incremental used=CELZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:43 [W3 159/901] CENX: OK mode=incremental used=CENX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:43 [W3 160/901] CEPV: OK mode=incremental used=CEPV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:43 [W3 161/901] CETY: OK mode=incremental used=CETY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:44 [W3 162/901] CFFI: OK mode=incremental used=CFFI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:44 [W3 163/901] CG: OK mode=incremental used=CG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:44 [W3 164/901] CGCT: OK mode=incremental used=CGCT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:45 [W3 165/901] CGNX: OK mode=incremental used=CGNX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:45 [W3 166/901] CGTX: OK mode=incremental used=CGTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:46 [W3 167/901] CHCI: OK mode=incremental used=CHCI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:46 [W3 168/901] CHEC: OK mode=incremental used=CHEC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:46 [W3 169/901] CHMG: OK mode=incremental used=CHMG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:47 [W3 170/901] CHRD: OK mode=incremental used=CHRD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:47 [W3 171/901] CHTR: OK mode=incremental used=CHTR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:48 [W3 172/901] CI: OK mode=incremental used=CI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:48 [W3 173/901] CIIT: OK mode=incremental used=CIIT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:48 [W3 174/901] CISS: OK mode=incremental used=CISS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:49 [W3 175/901] CLAR: OK mode=incremental used=CLAR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:49 [W3 176/901] CLFD: OK mode=incremental used=CLFD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:50 [W3 177/901] CLMB: OK mode=incremental used=CLMB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:50 [W3 178/901] CLOV: OK mode=incremental used=CLOV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:50 [W3 179/901] CLRO: OK mode=incremental used=CLRO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:51 [W3 180/901] CLX: OK mode=incremental used=CLX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:51 [W3 181/901] CMCSA: OK mode=incremental used=CMCSA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:51 [W3 182/901] CMI: OK mode=incremental used=CMI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:52 [W3 183/901] CMRC: OK mode=incremental used=CMRC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:52 [W3 184/901] CNCK: OK mode=incremental used=CNCK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:53 [W3 185/901] CNOB: OK mode=incremental used=CNOB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:53 [W3 186/901] CNTB: OK mode=incremental used=CNTB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:53 [W3 187/901] CNXC: OK mode=incremental used=CNXC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:54 [W3 188/901] COCP: OK mode=incremental used=COCP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:54 [W3 189/901] COFS: OK mode=incremental used=COFS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:55 [W3 190/901] COKE: OK mode=incremental used=COKE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:55 [W3 191/901] COLM: OK mode=incremental used=COLM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:55 [W3 192/901] COR: OK mode=incremental used=COR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:56 [W3 193/901] COST: OK mode=incremental used=COST window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:56 [W3 194/901] CPBI: OK mode=incremental used=CPBI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:57 [W3 195/901] CPRT: OK mode=incremental used=CPRT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:57 [W3 196/901] CPT: OK mode=incremental used=CPT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:58 [W3 197/901] CRAN: OK mode=incremental used=CRAN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:58 [W3 198/901] CRCT: OK mode=incremental used=CRCT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:59 [W3 199/901] CRE: OK mode=incremental used=CRE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:59 [W3 200/901] CRGO: OK mode=incremental used=CRGO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:13:59 [W3 201/901] CRM: OK mode=incremental used=CRM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:00 [W3 202/901] CRNC: OK mode=incremental used=CRNC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:00 [W3 203/901] CROX: OK mode=incremental used=CROX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:01 [W3 204/901] CRVL: OK mode=incremental used=CRVL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:01 [W3 205/901] CRWS: OK mode=incremental used=CRWS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:01 [W3 206/901] CSCO: OK mode=incremental used=CSCO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:02 [W3 207/901] CSPI: OK mode=incremental used=CSPI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:02 [W3 208/901] CSWC: OK mode=incremental used=CSWC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:03 [W3 209/901] CTKB: OK mode=incremental used=CTKB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:03 [W3 210/901] CTNT: OK mode=incremental used=CTNT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:03 [W3 211/901] CTRN: OK mode=incremental used=CTRN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:04 [W3 212/901] CTW: OK mode=incremental used=CTW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:04 [W3 213/901] CUPR: OK mode=incremental used=CUPR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:05 [W3 214/901] CV: OK mode=incremental used=CV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:05 [W3 215/901] CVGW: OK mode=incremental used=CVGW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:05 [W3 216/901] CVRX: OK mode=incremental used=CVRX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:06 [W3 217/901] CWBC: OK mode=incremental used=CWBC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:06 [W3 218/901] CXAI: OK mode=incremental used=CXAI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:07 [W3 219/901] CYCU: OK mode=incremental used=CYCU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:07 [W3 220/901] CYTK: OK mode=incremental used=CYTK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:07 [W3 221/901] CZWI: OK mode=incremental used=CZWI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:08 [W3 222/901] DAIO: OK mode=incremental used=DAIO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:08 [W3 223/901] DASH: OK mode=incremental used=DASH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:09 [W3 224/901] DBGI: OK mode=incremental used=DBGI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:09 [W3 225/901] DCGO: OK mode=incremental used=DCGO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:09 [W3 226/901] DCTH: OK mode=incremental used=DCTH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:10 [W3 227/901] DE: OK mode=incremental used=DE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:10 [W3 228/901] DENN: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=DENN
+2026-01-21 05:14:10 [W3 229/901] DFLI: OK mode=incremental used=DFLI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:11 [W3 230/901] DGICA: OK mode=incremental used=DGICA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:11 [W3 231/901] DGX: OK mode=incremental used=DGX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:12 [W3 232/901] DHCNL: OK mode=incremental used=DHCNL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:12 [W3 233/901] DIBS: OK mode=incremental used=DIBS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:12 [W3 234/901] DJT: OK mode=incremental used=DJT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:13 [W3 235/901] DLO: OK mode=incremental used=DLO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:13 [W3 236/901] DLTR: OK mode=incremental used=DLTR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:14 [W3 237/901] DMII: OK mode=incremental used=DMII window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:14 [W3 238/901] DNMX: OK mode=incremental used=DNMX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:14 [W3 239/901] DOCU: OK mode=incremental used=DOCU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:15 [W3 240/901] DOO: OK mode=incremental used=DOO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:15 [W3 241/901] DOX: OK mode=incremental used=DOX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:16 [W3 242/901] DRDB: OK mode=incremental used=DRDB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:16 [W3 243/901] DRMA: OK mode=incremental used=DRMA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:16 [W3 244/901] DRVN: OK mode=incremental used=DRVN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:17 [W3 245/901] DSP: OK mode=incremental used=DSP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:17 [W3 246/901] DTCX: OK mode=incremental used=DTCX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:18 [W3 247/901] DTSQ: OK mode=incremental used=DTSQ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:18 [W3 248/901] DUO: OK mode=incremental used=DUO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:18 [W3 249/901] DVAX: OK mode=incremental used=DVAX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:19 [W3 250/901] DWTX: OK mode=incremental used=DWTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:19 [W3 251/901] DXR: OK mode=incremental used=DXR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:20 [W3 252/901] DYOR: OK mode=incremental used=DYOR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:20 [W3 253/901] EBMT: OK mode=incremental used=EBMT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:20 [W3 254/901] ECOR: OK mode=incremental used=ECOR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:21 [W3 255/901] EDBL: OK mode=incremental used=EDBL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:21 [W3 256/901] EDSA: OK mode=incremental used=EDSA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:21 [W3 257/901] EEIQ: OK mode=incremental used=EEIQ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:22 [W3 258/901] EFTY: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=EFTY
+2026-01-21 05:14:22 [W3 259/901] EGBN: OK mode=incremental used=EGBN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:23 [W3 260/901] EHLD: OK mode=incremental used=EHLD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:23 [W3 261/901] EKSO: OK mode=incremental used=EKSO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:23 [W3 262/901] ELDN: OK mode=incremental used=ELDN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:24 [W3 263/901] ELSE: OK mode=incremental used=ELSE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:24 [W3 264/901] ELV: OK mode=incremental used=ELV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:25 [W3 265/901] EMAT: OK mode=incremental used=EMAT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:25 [W3 266/901] EML: OK mode=incremental used=EML window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:25 [W3 267/901] ENGN: OK mode=incremental used=ENGN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:26 [W3 268/901] ENPH: OK mode=incremental used=ENPH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:26 [W3 269/901] ENTG: OK mode=incremental used=ENTG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:27 [W3 270/901] EOG: OK mode=incremental used=EOG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:27 [W3 271/901] EPOW: OK mode=incremental used=EPOW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:27 [W3 272/901] EQ: OK mode=incremental used=EQ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:28 [W3 273/901] ERAS: OK mode=incremental used=ERAS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:28 [W3 274/901] ES: OK mode=incremental used=ES window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:29 [W3 275/901] ESHA: OK mode=incremental used=ESHA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:29 [W3 276/901] ESPR: OK mode=incremental used=ESPR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:29 [W3 277/901] ETHM: OK mode=incremental used=ETHM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:30 [W3 278/901] ETOR: OK mode=incremental used=ETOR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:30 [W3 279/901] EUDA: OK mode=incremental used=EUDA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:31 [W3 280/901] EVGN: OK mode=incremental used=EVGN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:31 [W3 281/901] EVRG: OK mode=incremental used=EVRG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:31 [W3 282/901] EWCZ: OK mode=incremental used=EWCZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:32 [W3 283/901] EXE: OK mode=incremental used=EXE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:32 [W3 284/901] EXOZ: OK mode=incremental used=EXOZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:33 [W3 285/901] EXPO: OK mode=incremental used=EXPO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:33 [W3 286/901] EYPT: OK mode=incremental used=EYPT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:33 [W3 287/901] FA: OK mode=incremental used=FA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:34 [W3 288/901] FARM: OK mode=incremental used=FARM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:34 [W3 289/901] FATE: OK mode=incremental used=FATE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:35 [W3 290/901] FBIZ: OK mode=incremental used=FBIZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:35 [W3 291/901] FBRX: OK mode=incremental used=FBRX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:35 [W3 292/901] FCCO: OK mode=incremental used=FCCO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:36 [W3 293/901] FCNCA: OK mode=incremental used=FCNCA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:36 [W3 294/901] FDMT: OK mode=incremental used=FDMT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:37 [W3 295/901] FDX: OK mode=incremental used=FDX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:37 [W3 296/901] FEED: OK mode=incremental used=FEED window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:38 [W3 297/901] FENC: OK mode=incremental used=FENC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:38 [W3 298/901] FFBC: OK mode=incremental used=FFBC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:39 [W3 299/901] FGBI: OK mode=incremental used=FGBI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:39 [W3 300/901] FGNX: OK mode=incremental used=FGNX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:39 [W3 301/901] FICO: OK mode=incremental used=FICO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:40 [W3 302/901] FINW: OK mode=incremental used=FINW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:40 [W3 303/901] FISV: OK mode=incremental used=FISV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:41 [W3 304/901] FIVN: OK mode=incremental used=FIVN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:41 [W3 305/901] FLD: OK mode=incremental used=FLD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:41 [W3 306/901] FLL: OK mode=incremental used=FLL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:42 [W3 307/901] FLWS: OK mode=incremental used=FLWS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:42 [W3 308/901] FLYW: OK mode=incremental used=FLYW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:43 [W3 309/901] FMNB: OK mode=incremental used=FMNB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:43 [W3 310/901] FNLC: OK mode=incremental used=FNLC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:43 [W3 311/901] FOLD: OK mode=incremental used=FOLD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:44 [W3 312/901] FORR: OK mode=incremental used=FORR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:44 [W3 313/901] FOXF: OK mode=incremental used=FOXF window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:45 [W3 314/901] FRD: OK mode=incremental used=FRD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:45 [W3 315/901] FRMEP: OK mode=incremental used=FRMEP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:45 [W3 316/901] FRPT: OK mode=incremental used=FRPT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:46 [W3 317/901] FSBC: OK mode=incremental used=FSBC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:46 [W3 318/901] FSHP: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=FSHP
+2026-01-21 05:14:47 [W3 319/901] FSUN: OK mode=incremental used=FSUN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:47 [W3 320/901] FTDR: OK mode=incremental used=FTDR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:47 [W3 321/901] FTHM: OK mode=incremental used=FTHM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:48 [W3 322/901] FTRK: OK mode=incremental used=FTRK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:48 [W3 323/901] FULT: OK mode=incremental used=FULT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:49 [W3 324/901] FUSB: OK mode=incremental used=FUSB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:49 [W3 325/901] FWDI: OK mode=incremental used=FWDI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:49 [W3 326/901] FWRG: OK mode=incremental used=FWRG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:50 [W3 327/901] GAIA: OK mode=incremental used=GAIA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:50 [W3 328/901] GAINZ: OK mode=incremental used=GAINZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:51 [W3 329/901] GANX: OK mode=incremental used=GANX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:51 [W3 330/901] GBFH: OK mode=incremental used=GBFH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:51 [W3 331/901] GCL: OK mode=incremental used=GCL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:52 [W3 332/901] GD: OK mode=incremental used=GD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:52 [W3 333/901] GDEV: OK mode=incremental used=GDEV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:53 [W3 334/901] GDYN: OK mode=incremental used=GDYN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:53 [W3 335/901] GECCH: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=GECCH
+2026-01-21 05:14:53 [W3 336/901] GEGGL: OK mode=incremental used=GEGGL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:54 [W3 337/901] GEN: OK mode=incremental used=GEN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:54 [W3 338/901] GEV: OK mode=incremental used=GEV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:55 [W3 339/901] GGR: OK mode=incremental used=GGR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:55 [W3 340/901] GIFI: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=GIFI
+2026-01-21 05:14:55 [W3 341/901] GIII: OK mode=incremental used=GIII window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:56 [W3 342/901] GIS: OK mode=incremental used=GIS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:56 [W3 343/901] GLAD: OK mode=incremental used=GLAD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:58 [W3 344/901] GLE: OK mode=incremental used=GLE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:58 [W3 345/901] GLNG: OK mode=incremental used=GLNG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:58 [W3 346/901] GLSI: OK mode=incremental used=GLSI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:59 [W3 347/901] GLXG: OK mode=incremental used=GLXG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:14:59 [W3 348/901] GMHS: OK mode=incremental used=GMHS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:00 [W3 349/901] GNPX: OK mode=incremental used=GNPX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:00 [W3 350/901] GO: OK mode=incremental used=GO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:00 [W3 351/901] GOOG: OK mode=incremental used=GOOG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:01 [W3 352/901] GP: OK mode=incremental used=GP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:01 [W3 353/901] GPRE: OK mode=incremental used=GPRE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:02 [W3 354/901] GRAN: OK mode=incremental used=GRAN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:06 [W3 355/901] GREEL: OK mode=incremental used=GREEL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:06 [W3 356/901] GROW: OK mode=incremental used=GROW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:06 [W3 357/901] GS: OK mode=incremental used=GS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:07 [W3 358/901] GSHR: OK mode=incremental used=GSHR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:07 [W3 359/901] GSRF: OK mode=incremental used=GSRF window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:08 [W3 360/901] GTEC: OK mode=incremental used=GTEC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:08 [W3 361/901] GTLB: OK mode=incremental used=GTLB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:08 [W3 362/901] GUTS: OK mode=incremental used=GUTS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:09 [W3 363/901] GWRS: OK mode=incremental used=GWRS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:09 [W3 364/901] GYRO: OK mode=incremental used=GYRO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:10 [W3 365/901] HALO: OK mode=incremental used=HALO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:10 [W3 366/901] HAVAR: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=HAVAR
+2026-01-21 05:15:10 [W3 367/901] HBCP: OK mode=incremental used=HBCP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:11 [W3 368/901] HBT: OK mode=incremental used=HBT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:11 [W3 369/901] HCHL: OK mode=incremental used=HCHL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:12 [W3 370/901] HCTI: OK mode=incremental used=HCTI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:12 [W3 371/901] HELE: OK mode=incremental used=HELE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:12 [W3 372/901] HFFG: OK mode=incremental used=HFFG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:13 [W3 373/901] HIFS: OK mode=incremental used=HIFS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:13 [W3 374/901] HIND: OK mode=incremental used=HIND window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:14 [W3 375/901] HKIT: OK mode=incremental used=HKIT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:14 [W3 376/901] HLNE: OK mode=incremental used=HLNE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:14 [W3 377/901] HNNA: OK mode=incremental used=HNNA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:15 [W3 378/901] HNVR: OK mode=incremental used=HNVR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:15 [W3 379/901] HON: OK mode=incremental used=HON window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:16 [W3 380/901] HOUR: OK mode=incremental used=HOUR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:16 [W3 381/901] HPE: OK mode=incremental used=HPE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:16 [W3 382/901] HQY: OK mode=incremental used=HQY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:17 [W3 383/901] HRTX: OK mode=incremental used=HRTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:17 [W3 384/901] HSDT: OK mode=incremental used=HSDT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:18 [W3 385/901] HSTM: OK mode=incremental used=HSTM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:18 [W3 386/901] HTCR: OK mode=incremental used=HTCR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:18 [W3 387/901] HTO: OK mode=incremental used=HTO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:19 [W3 388/901] HUBC: OK mode=incremental used=HUBC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:19 [W3 389/901] HUM: OK mode=incremental used=HUM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:20 [W3 390/901] HURN: OK mode=incremental used=HURN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:20 [W3 391/901] HWBK: OK mode=incremental used=HWBK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:20 [W3 392/901] HWKN: OK mode=incremental used=HWKN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:21 [W3 393/901] HYFT: OK mode=incremental used=HYFT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:21 [W3 394/901] HYPR: OK mode=incremental used=HYPR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:22 [W3 395/901] IBCP: OK mode=incremental used=IBCP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:22 [W3 396/901] IBKR: OK mode=incremental used=IBKR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:23 [W3 397/901] ICCC: OK mode=incremental used=ICCC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:23 [W3 398/901] ICHR: OK mode=incremental used=ICHR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:24 [W3 399/901] ICU: OK mode=incremental used=ICU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:24 [W3 400/901] IDN: OK mode=incremental used=IDN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:24 [W3 401/901] IESC: OK mode=incremental used=IESC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:25 [W3 402/901] IFRX: OK mode=incremental used=IFRX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:25 [W3 403/901] III: OK mode=incremental used=III window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:26 [W3 404/901] ILMN: OK mode=incremental used=ILMN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:26 [W3 405/901] IMG: OK mode=incremental used=IMG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:26 [W3 406/901] IMNM: OK mode=incremental used=IMNM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:27 [W3 407/901] IMRX: OK mode=incremental used=IMRX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:27 [W3 408/901] IMUX: OK mode=incremental used=IMUX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:27 [W3 409/901] INAC: OK mode=incremental used=INAC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:28 [W3 410/901] INBX: OK mode=incremental used=INBX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:28 [W3 411/901] INDI: OK mode=incremental used=INDI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:29 [W3 412/901] INGN: OK mode=incremental used=INGN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:29 [W3 413/901] INM: OK mode=incremental used=INM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:30 [W3 414/901] INO: OK mode=incremental used=INO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:30 [W3 415/901] INSM: OK mode=incremental used=INSM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:31 [W3 416/901] INTJ: OK mode=incremental used=INTJ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:31 [W3 417/901] INTZ: OK mode=incremental used=INTZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:31 [W3 418/901] INVH: OK mode=incremental used=INVH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:32 [W3 419/901] IOSP: OK mode=incremental used=IOSP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:32 [W3 420/901] IPAR: OK mode=incremental used=IPAR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:33 [W3 421/901] IPGP: OK mode=incremental used=IPGP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:33 [W3 422/901] IPST: OK mode=incremental used=IPST window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:33 [W3 423/901] IQV: OK mode=incremental used=IQV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:34 [W3 424/901] IREN: OK mode=incremental used=IREN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:34 [W3 425/901] IRON: OK mode=incremental used=IRON window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:35 [W3 426/901] ISBA: OK mode=incremental used=ISBA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:35 [W3 427/901] ISRG: OK mode=incremental used=ISRG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:35 [W3 428/901] ITIC: OK mode=incremental used=ITIC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:36 [W3 429/901] ITRN: OK mode=incremental used=ITRN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:36 [W3 430/901] IVP: OK mode=incremental used=IVP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:36 [W3 431/901] IZEA: OK mode=incremental used=IZEA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:37 [W3 432/901] JAGX: OK mode=incremental used=JAGX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:37 [W3 433/901] JAZZ: OK mode=incremental used=JAZZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:38 [W3 434/901] JBL: OK mode=incremental used=JBL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:38 [W3 435/901] JCI: OK mode=incremental used=JCI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:38 [W3 436/901] JEM: OK mode=incremental used=JEM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:39 [W3 437/901] JKHY: OK mode=incremental used=JKHY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:39 [W3 438/901] JNJ: OK mode=incremental used=JNJ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:40 [W3 439/901] JRVR: OK mode=incremental used=JRVR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:40 [W3 440/901] JUNS: OK mode=incremental used=JUNS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:40 [W3 441/901] JYD: OK mode=incremental used=JYD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:41 [W3 442/901] KALU: OK mode=incremental used=KALU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:41 [W3 443/901] KCHV: OK mode=incremental used=KCHV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:42 [W3 444/901] KELYA: OK mode=incremental used=KELYA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:42 [W3 445/901] KEYS: OK mode=incremental used=KEYS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:43 [W3 446/901] KGEI: OK mode=incremental used=KGEI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:43 [W3 447/901] KIM: OK mode=incremental used=KIM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:43 [W3 448/901] KLAC: OK mode=incremental used=KLAC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:44 [W3 449/901] KLTR: OK mode=incremental used=KLTR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:44 [W3 450/901] KMI: OK mode=incremental used=KMI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:44 [W3 451/901] KNSA: OK mode=incremental used=KNSA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:45 [W3 452/901] KOSS: OK mode=incremental used=KOSS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:45 [W3 453/901] KPTI: OK mode=incremental used=KPTI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:46 [W3 454/901] KRNY: OK mode=incremental used=KRNY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:46 [W3 455/901] KRUS: OK mode=incremental used=KRUS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:46 [W3 456/901] KTOS: OK mode=incremental used=KTOS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:47 [W3 457/901] KVAC: OK mode=incremental used=KVAC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:47 [W3 458/901] KXIN: OK mode=incremental used=KXIN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:48 [W3 459/901] KYTX: OK mode=incremental used=KYTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:48 [W3 460/901] LAES: OK mode=incremental used=LAES window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:48 [W3 461/901] LAND: OK mode=incremental used=LAND window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:49 [W3 462/901] LASR: OK mode=incremental used=LASR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:49 [W3 463/901] LBRDA: OK mode=incremental used=LBRDA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:50 [W3 464/901] LBTYB: OK mode=incremental used=LBTYB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:50 [W3 465/901] LCID: OK mode=incremental used=LCID window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:50 [W3 466/901] LDWY: OK mode=incremental used=LDWY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:51 [W3 467/901] LEE: OK mode=incremental used=LEE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:51 [W3 468/901] LESL: OK mode=incremental used=LESL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:52 [W3 469/901] LFST: OK mode=incremental used=LFST window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:52 [W3 470/901] LGCB: OK mode=incremental used=LGCB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:52 [W3 471/901] LGN: OK mode=incremental used=LGN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:53 [W3 472/901] LH: OK mode=incremental used=LH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:53 [W3 473/901] LICN: OK mode=incremental used=LICN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:54 [W3 474/901] LII: OK mode=incremental used=LII window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:54 [W3 475/901] LIN: OK mode=incremental used=LIN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:54 [W3 476/901] LINK: OK mode=incremental used=LINK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:55 [W3 477/901] LITS: OK mode=incremental used=LITS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:55 [W3 478/901] LKFN: OK mode=incremental used=LKFN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:56 [W3 479/901] LLYVA: OK mode=incremental used=LLYVA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:56 [W3 480/901] LMFA: OK mode=incremental used=LMFA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:57 [W3 481/901] LNAI: OK mode=incremental used=LNAI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:57 [W3 482/901] LNT: OK mode=incremental used=LNT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:57 [W3 483/901] LOBO: OK mode=incremental used=LOBO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:58 [W3 484/901] LONA: OK mode=incremental used=LONA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:58 [W3 485/901] LOW: OK mode=incremental used=LOW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:59 [W3 486/901] LPLA: OK mode=incremental used=LPLA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:59 [W3 487/901] LQDA: OK mode=incremental used=LQDA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:15:59 [W3 488/901] LRMR: OK mode=incremental used=LRMR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:00 [W3 489/901] LSE: OK mode=incremental used=LSE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:00 [W3 490/901] LTBR: OK mode=incremental used=LTBR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:01 [W3 491/901] LUCY: OK mode=incremental used=LUCY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:01 [W3 492/901] LUV: OK mode=incremental used=LUV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:01 [W3 493/901] LVS: OK mode=incremental used=LVS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:02 [W3 494/901] LWLG: OK mode=incremental used=LWLG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:03 [W3 495/901] LYEL: OK mode=incremental used=LYEL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:03 [W3 496/901] LYV: OK mode=incremental used=LYV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:03 [W3 497/901] MAA: OK mode=incremental used=MAA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:04 [W3 498/901] MAMA: OK mode=incremental used=MAMA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:04 [W3 499/901] MAPS: OK mode=incremental used=MAPS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:05 [W3 500/901] MAS: OK mode=incremental used=MAS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:05 [W3 501/901] MAT: OK mode=incremental used=MAT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:05 [W3 502/901] MAYS: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=MAYS
+2026-01-21 05:16:06 [W3 503/901] MBAV: OK mode=incremental used=MBAV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:06 [W3 504/901] MBINL: OK mode=incremental used=MBINL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:06 [W3 505/901] MBLY: OK mode=incremental used=MBLY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:07 [W3 506/901] MBVI: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=MBVI
+2026-01-21 05:16:07 [W3 507/901] MCD: OK mode=incremental used=MCD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:08 [W3 508/901] MCHP: OK mode=incremental used=MCHP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:08 [W3 509/901] MCO: OK mode=incremental used=MCO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:08 [W3 510/901] MCW: OK mode=incremental used=MCW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:09 [W3 511/901] MDCX: OK mode=incremental used=MDCX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:09 [W3 512/901] MDLZ: OK mode=incremental used=MDLZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:10 [W3 513/901] MDXG: OK mode=incremental used=MDXG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:10 [W3 514/901] MEHA: OK mode=incremental used=MEHA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:10 [W3 515/901] MERC: OK mode=incremental used=MERC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:11 [W3 516/901] METCB: OK mode=incremental used=METCB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:11 [W3 517/901] MFIC: OK mode=incremental used=MFIC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:12 [W3 518/901] MGIC: OK mode=incremental used=MGIC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:12 [W3 519/901] MGNI: OK mode=incremental used=MGNI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:12 [W3 520/901] MGRT: OK mode=incremental used=MGRT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:13 [W3 521/901] MGYR: OK mode=incremental used=MGYR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:13 [W3 522/901] MIND: OK mode=incremental used=MIND window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:14 [W3 523/901] MITK: OK mode=incremental used=MITK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:14 [W3 524/901] MKSI: OK mode=incremental used=MKSI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:14 [W3 525/901] MLAB: OK mode=incremental used=MLAB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:15 [W3 526/901] MLGO: OK mode=incremental used=MLGO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:15 [W3 527/901] MLYS: OK mode=incremental used=MLYS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:16 [W3 528/901] MMTX: OK mode=incremental used=MMTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:16 [W3 529/901] MNDY: OK mode=incremental used=MNDY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:16 [W3 530/901] MNRO: OK mode=incremental used=MNRO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:17 [W3 531/901] MNTK: OK mode=incremental used=MNTK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:17 [W3 532/901] MOBX: OK mode=incremental used=MOBX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:18 [W3 533/901] MORN: OK mode=incremental used=MORN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:18 [W3 534/901] MPB: OK mode=incremental used=MPB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:18 [W3 535/901] MQ: OK mode=incremental used=MQ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:19 [W3 536/901] MRCY: OK mode=incremental used=MRCY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:19 [W3 537/901] MRNO: OK mode=incremental used=MRNO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:20 [W3 538/901] MRVL: OK mode=incremental used=MRVL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:20 [W3 539/901] MSBI: OK mode=incremental used=MSBI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:20 [W3 540/901] MSGM: OK mode=incremental used=MSGM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:21 [W3 541/901] MSTR: OK mode=incremental used=MSTR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:21 [W3 542/901] MTCH: OK mode=incremental used=MTCH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:21 [W3 543/901] MTEX: OK mode=incremental used=MTEX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:22 [W3 544/901] MU: OK mode=incremental used=MU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:22 [W3 545/901] MWYN: OK mode=incremental used=MWYN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:23 [W3 546/901] MYGN: OK mode=incremental used=MYGN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:23 [W3 547/901] MYSE: OK mode=incremental used=MYSE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:23 [W3 548/901] NAGE: OK mode=incremental used=NAGE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:24 [W3 549/901] NAMS: OK mode=incremental used=NAMS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:24 [W3 550/901] NAVI: OK mode=incremental used=NAVI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:25 [W3 551/901] NBIS: OK mode=incremental used=NBIS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:25 [W3 552/901] NCEL: OK mode=incremental used=NCEL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:25 [W3 553/901] NCMI: OK mode=incremental used=NCMI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:26 [W3 554/901] NCSM: OK mode=incremental used=NCSM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:26 [W3 555/901] NDRA: OK mode=incremental used=NDRA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:27 [W3 556/901] NEGG: OK mode=incremental used=NEGG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:27 [W3 557/901] NEON: OK mode=incremental used=NEON window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:27 [W3 558/901] NESR: OK mode=incremental used=NESR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:28 [W3 559/901] NEWTI: OK mode=incremental used=NEWTI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:28 [W3 560/901] NEXT: OK mode=incremental used=NEXT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:29 [W3 561/901] NGEN: OK mode=incremental used=NGEN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:29 [W3 562/901] NI: OK mode=incremental used=NI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:29 [W3 563/901] NIXX: OK mode=incremental used=NIXX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:30 [W3 564/901] NKTR: OK mode=incremental used=NKTR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:30 [W3 565/901] NMIH: OK mode=incremental used=NMIH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:31 [W3 566/901] NMTC: OK mode=incremental used=NMTC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:31 [W3 567/901] NNNN: OK mode=incremental used=NNNN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:31 [W3 568/901] NOEM: OK mode=incremental used=NOEM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:32 [W3 569/901] NOW: OK mode=incremental used=NOW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:32 [W3 570/901] NRC: OK mode=incremental used=NRC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:33 [W3 571/901] NRIX: OK mode=incremental used=NRIX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:33 [W3 572/901] NSIT: OK mode=incremental used=NSIT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:33 [W3 573/901] NSYS: OK mode=incremental used=NSYS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:34 [W3 574/901] NTGR: OK mode=incremental used=NTGR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:34 [W3 575/901] NTNX: OK mode=incremental used=NTNX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:35 [W3 576/901] NTRS: OK mode=incremental used=NTRS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:35 [W3 577/901] NUAI: OK mode=incremental used=NUAI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:35 [W3 578/901] NUTX: OK mode=incremental used=NUTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:36 [W3 579/901] NVCR: OK mode=incremental used=NVCR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:36 [W3 580/901] NVMI: OK mode=incremental used=NVMI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:37 [W3 581/901] NVTS: OK mode=incremental used=NVTS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:37 [W3 582/901] NWFL: OK mode=incremental used=NWFL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:37 [W3 583/901] NWSA: OK mode=incremental used=NWSA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:38 [W3 584/901] NXPI: OK mode=incremental used=NXPI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:38 [W3 585/901] NXTC: OK mode=incremental used=NXTC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:39 [W3 586/901] NYXH: OK mode=incremental used=NYXH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:39 [W3 587/901] OAKU: OK mode=incremental used=OAKU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:39 [W3 588/901] OBTC: OK mode=incremental used=OBTC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:40 [W3 589/901] OCFC: OK mode=incremental used=OCFC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:40 [W3 590/901] OCSL: OK mode=incremental used=OCSL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:41 [W3 591/901] ODYS: OK mode=incremental used=ODYS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:41 [W3 592/901] OFLX: OK mode=incremental used=OFLX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:41 [W3 593/901] OGI: OK mode=incremental used=OGI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:42 [W3 594/901] OKUR: OK mode=incremental used=OKUR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:43 [W3 595/901] OLLI: OK mode=incremental used=OLLI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:43 [W3 596/901] OMC: OK mode=incremental used=OMC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:43 [W3 597/901] OMEX: OK mode=incremental used=OMEX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:44 [W3 598/901] ONB: OK mode=incremental used=ONB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:44 [W3 599/901] ONCY: OK mode=incremental used=ONCY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:45 [W3 600/901] ONFO: OK mode=incremental used=ONFO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:45 [W3 601/901] OPCH: OK mode=incremental used=OPCH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:45 [W3 602/901] OPRX: OK mode=incremental used=OPRX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:46 [W3 603/901] ORCL: OK mode=incremental used=ORCL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:46 [W3 604/901] ORIO: OK mode=incremental used=ORIO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:47 [W3 605/901] ORKT: OK mode=incremental used=ORKT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:47 [W3 606/901] OS: OK mode=incremental used=OS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:47 [W3 607/901] OSRH: OK mode=incremental used=OSRH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:48 [W3 608/901] OSW: OK mode=incremental used=OSW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:48 [W3 609/901] OTLK: OK mode=incremental used=OTLK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:48 [W3 610/901] OVID: OK mode=incremental used=OVID window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:49 [W3 611/901] OXLC: OK mode=incremental used=OXLC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:49 [W3 612/901] OXLCO: OK mode=incremental used=OXLCO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:50 [W3 613/901] OXSQH: OK mode=incremental used=OXSQH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:50 [W3 614/901] PAA: OK mode=incremental used=PAA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:50 [W3 615/901] PAHC: OK mode=incremental used=PAHC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:51 [W3 616/901] PANL: OK mode=incremental used=PANL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:51 [W3 617/901] PASW: OK mode=incremental used=PASW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:52 [W3 618/901] PAX: OK mode=incremental used=PAX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:52 [W3 619/901] PAYX: OK mode=incremental used=PAYX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:52 [W3 620/901] PBYI: OK mode=incremental used=PBYI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:53 [W3 621/901] PCB: OK mode=incremental used=PCB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:53 [W3 622/901] PCSA: OK mode=incremental used=PCSA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:54 [W3 623/901] PCVX: OK mode=incremental used=PCVX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:54 [W3 624/901] PDLB: OK mode=incremental used=PDLB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:54 [W3 625/901] PEBO: OK mode=incremental used=PEBO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:55 [W3 626/901] PELI: OK mode=incremental used=PELI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:55 [W3 627/901] PEPG: OK mode=incremental used=PEPG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:56 [W3 628/901] PETZ: OK mode=incremental used=PETZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:56 [W3 629/901] PFG: OK mode=incremental used=PFG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:56 [W3 630/901] PFXNZ: OK mode=incremental used=PFXNZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:57 [W3 631/901] PGEN: OK mode=incremental used=PGEN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:57 [W3 632/901] PH: OK mode=incremental used=PH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:58 [W3 633/901] PHM: OK mode=incremental used=PHM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:58 [W3 634/901] PI: OK mode=incremental used=PI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:58 [W3 635/901] PKOH: OK mode=incremental used=PKOH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:59 [W3 636/901] PLBL: OK mode=incremental used=PLBL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:16:59 [W3 637/901] PLMK: OK mode=incremental used=PLMK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:00 [W3 638/901] PLRZ: OK mode=incremental used=PLRZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:00 [W3 639/901] PLTS: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=PLTS
+2026-01-21 05:17:00 [W3 640/901] PLUT: OK mode=incremental used=PLUT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:01 [W3 641/901] PMCB: OK mode=incremental used=PMCB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:01 [W3 642/901] PMTS: OK mode=incremental used=PMTS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:02 [W3 643/901] PNC: OK mode=incremental used=PNC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:02 [W3 644/901] PNW: OK mode=incremental used=PNW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:02 [W3 645/901] POET: OK mode=incremental used=POET window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:03 [W3 646/901] POWI: OK mode=incremental used=POWI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:03 [W3 647/901] PPCB: OK mode=incremental used=PPCB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:04 [W3 648/901] PPSI: OK mode=incremental used=PPSI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:04 [W3 649/901] PRCH: OK mode=incremental used=PRCH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:04 [W3 650/901] PRFX: OK mode=incremental used=PRFX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:05 [W3 651/901] PRLD: OK mode=incremental used=PRLD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:05 [W3 652/901] PROP: OK mode=incremental used=PROP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:05 [W3 653/901] PRQR: OK mode=incremental used=PRQR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:06 [W3 654/901] PRTS: OK mode=incremental used=PRTS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:06 [W3 655/901] PSA: OK mode=incremental used=PSA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:07 [W3 656/901] PSIX: OK mode=incremental used=PSIX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:07 [W3 657/901] PSNY: OK mode=incremental used=PSNY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:07 [W3 658/901] PTCT: OK mode=incremental used=PTCT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:08 [W3 659/901] PTLO: OK mode=incremental used=PTLO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:08 [W3 660/901] PUBM: OK mode=incremental used=PUBM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:09 [W3 661/901] PWP: OK mode=incremental used=PWP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:09 [W3 662/901] PYPD: OK mode=incremental used=PYPD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:09 [W3 663/901] Q: OK mode=incremental used=Q window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:10 [W3 664/901] QDEL: OK mode=incremental used=QDEL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:10 [W3 665/901] QMCO: OK mode=incremental used=QMCO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:11 [W3 666/901] QNTM: OK mode=incremental used=QNTM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:11 [W3 667/901] QS: OK mode=incremental used=QS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:11 [W3 668/901] QTTB: OK mode=incremental used=QTTB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:12 [W3 669/901] QURE: OK mode=incremental used=QURE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:12 [W3 670/901] RAIN: OK mode=incremental used=RAIN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:13 [W3 671/901] RAPP: OK mode=incremental used=RAPP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:13 [W3 672/901] RAY: OK mode=incremental used=RAY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:13 [W3 673/901] RBCAA: OK mode=incremental used=RBCAA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:14 [W3 674/901] RCKT: OK mode=incremental used=RCKT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:14 [W3 675/901] RCON: OK mode=incremental used=RCON window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:15 [W3 676/901] RDCM: OK mode=incremental used=RDCM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:15 [W3 677/901] RDNT: OK mode=incremental used=RDNT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:15 [W3 678/901] RDZN: OK mode=incremental used=RDZN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:16 [W3 679/901] RECT: OK mode=incremental used=RECT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:16 [W3 680/901] REG: OK mode=incremental used=REG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:17 [W3 681/901] RELL: OK mode=incremental used=RELL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:17 [W3 682/901] REPL: OK mode=incremental used=REPL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:17 [W3 683/901] RF: OK mode=incremental used=RF window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:18 [W3 684/901] RGCO: OK mode=incremental used=RGCO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:18 [W3 685/901] RGP: OK mode=incremental used=RGP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:19 [W3 686/901] RICK: OK mode=incremental used=RICK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:19 [W3 687/901] RILYK: OK mode=incremental used=RILYK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:19 [W3 688/901] RILYZ: OK mode=incremental used=RILYZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:20 [W3 689/901] RIVN: OK mode=incremental used=RIVN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:20 [W3 690/901] RKLB: OK mode=incremental used=RKLB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:21 [W3 691/901] RLYB: OK mode=incremental used=RLYB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:21 [W3 692/901] RMCO: OK mode=incremental used=RMCO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:21 [W3 693/901] RMSG: OK mode=incremental used=RMSG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:17:22 [W3 694/901] RNAZ: OK mode=incremental used=RNAZ window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:35 [W3] shard_index=3/4 symbols=901 head=['AAME', 'AARD', 'ABEO', 'ABP', 'ABTS'] tail=['ZG', 'ZJYL', 'ZNTL', 'ZTEK', 'ZVRA']
+2026-01-21 05:19:35 [W3 1/901] AAME: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:35 [W3 2/901] AARD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:35 [W3 3/901] ABEO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:35 [W3 4/901] ABP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:35 [W3 5/901] ABTS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 6/901] ACAD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 7/901] ACET: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 8/901] ACHC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 9/901] ACIW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 10/901] ACN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 11/901] ACON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 12/901] ACTG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 13/901] ADAMG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 14/901] ADAMO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 15/901] ADGM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 16/901] ADMA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 17/901] ADSK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 18/901] ADUS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 19/901] AEC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 20/901] AEI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 21/901] AEP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 22/901] AEYE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 23/901] AFL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 24/901] AGAE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 25/901] AGIO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 26/901] AGNCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 27/901] AHCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 28/901] AIG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 29/901] AIOT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 30/901] AIRJ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 31/901] AISP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 32/901] AKAM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 33/901] ALAB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 34/901] ALCY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:36 [W3 35/901] ALF: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=ALF
+2026-01-21 05:19:37 [W3 36/901] ALGT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 37/901] ALKT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 38/901] ALLR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 39/901] ALMU: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 40/901] ALPS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 41/901] ALTI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 42/901] ALXO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 43/901] AMBA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 44/901] AMD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 45/901] AMKR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 46/901] AMPG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 47/901] AMSC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 48/901] AMTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 49/901] ANDE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 50/901] ANGI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 51/901] ANIX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 52/901] ANSC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 53/901] AON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 54/901] APA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 55/901] APEI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 56/901] APLM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 57/901] APO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 58/901] APPN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 59/901] APVO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 60/901] AQB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 61/901] ARAY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 62/901] ARCC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 63/901] AREB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 64/901] ARKO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 65/901] ARQ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 66/901] ARTL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 67/901] ARVN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 68/901] ASMB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 69/901] ASPI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 70/901] ASST: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 71/901] ASTI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 72/901] ASYS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 73/901] ATER: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 74/901] ATII: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 75/901] ATLN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 76/901] ATO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 77/901] ATPC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 78/901] ATXG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 79/901] AUDC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 80/901] AUR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 81/901] AVAH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 82/901] AVBP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 83/901] AVNW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 84/901] AVT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 85/901] AVY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 86/901] AXGN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 87/901] AXSM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 88/901] AZI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 89/901] BAC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 90/901] BAFN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 91/901] BANL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 92/901] BATRA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 93/901] BBCP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 94/901] BBNX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 95/901] BCAB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 96/901] BCBP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 97/901] BCML: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 98/901] BCTXL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 99/901] BDTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 100/901] BEAT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 101/901] BELFB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 102/901] BF.B: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 103/901] BFST: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 104/901] BGL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 105/901] BHAT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 106/901] BHFAN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 107/901] BIAF: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 108/901] BIRD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 109/901] BIYA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 110/901] BKHA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 111/901] BL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 112/901] BLDR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 113/901] BLIV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 114/901] BLMN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 115/901] BLZE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 116/901] BMGL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 117/901] BMRC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 118/901] BNBX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 119/901] BNRG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 120/901] BOF: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 121/901] BON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 122/901] BOXL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 123/901] BPYPM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 124/901] BRAG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 125/901] BRK.B: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 126/901] BRO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 127/901] BSAA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 128/901] BSVN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 129/901] BTBD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 130/901] BTDR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 131/901] BTOG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 132/901] BULL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 133/901] BVFL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 134/901] BWEN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 135/901] BX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 136/901] BYND: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 137/901] BZFD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 138/901] CABR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 139/901] CAEP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 140/901] CAKE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 141/901] CAMT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 142/901] CAPT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 143/901] CARL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 144/901] CASI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 145/901] CATY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 146/901] CBFV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 147/901] CBNK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 148/901] CBSH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 149/901] CCBG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 150/901] CCD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 151/901] CCHH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 152/901] CCL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 153/901] CCRN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 154/901] CDIO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 155/901] CDNS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 156/901] CDW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 157/901] CEG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 158/901] CELZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 159/901] CENX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 160/901] CEPV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 161/901] CETY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 162/901] CFFI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 163/901] CG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 164/901] CGCT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 165/901] CGNX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 166/901] CGTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 167/901] CHCI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 168/901] CHEC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 169/901] CHMG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 170/901] CHRD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 171/901] CHTR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 172/901] CI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 173/901] CIIT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 174/901] CISS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 175/901] CLAR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 176/901] CLFD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 177/901] CLMB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 178/901] CLOV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 179/901] CLRO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 180/901] CLX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 181/901] CMCSA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 182/901] CMI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 183/901] CMRC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 184/901] CNCK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 185/901] CNOB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 186/901] CNTB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 187/901] CNXC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 188/901] COCP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 189/901] COFS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 190/901] COKE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 191/901] COLM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 192/901] COR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 193/901] COST: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 194/901] CPBI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 195/901] CPRT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 196/901] CPT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 197/901] CRAN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 198/901] CRCT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 199/901] CRE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 200/901] CRGO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 201/901] CRM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 202/901] CRNC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 203/901] CROX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 204/901] CRVL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 205/901] CRWS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 206/901] CSCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 207/901] CSPI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 208/901] CSWC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 209/901] CTKB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 210/901] CTNT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 211/901] CTRN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 212/901] CTW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 213/901] CUPR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 214/901] CV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 215/901] CVGW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 216/901] CVRX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 217/901] CWBC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 218/901] CXAI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 219/901] CYCU: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 220/901] CYTK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 221/901] CZWI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 222/901] DAIO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 223/901] DASH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 224/901] DBGI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 225/901] DCGO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 226/901] DCTH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 227/901] DE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 228/901] DENN: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=DENN
+2026-01-21 05:19:37 [W3 229/901] DFLI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 230/901] DGICA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 231/901] DGX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 232/901] DHCNL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 233/901] DIBS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 234/901] DJT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 235/901] DLO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 236/901] DLTR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 237/901] DMII: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 238/901] DNMX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 239/901] DOCU: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 240/901] DOO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 241/901] DOX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 242/901] DRDB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 243/901] DRMA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 244/901] DRVN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 245/901] DSP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 246/901] DTCX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 247/901] DTSQ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:37 [W3 248/901] DUO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 249/901] DVAX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 250/901] DWTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 251/901] DXR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 252/901] DYOR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 253/901] EBMT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 254/901] ECOR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 255/901] EDBL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 256/901] EDSA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 257/901] EEIQ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 258/901] EFTY: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=EFTY
+2026-01-21 05:19:38 [W3 259/901] EGBN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 260/901] EHLD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 261/901] EKSO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 262/901] ELDN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 263/901] ELSE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 264/901] ELV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 265/901] EMAT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 266/901] EML: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 267/901] ENGN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 268/901] ENPH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 269/901] ENTG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 270/901] EOG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 271/901] EPOW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 272/901] EQ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 273/901] ERAS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 274/901] ES: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 275/901] ESHA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 276/901] ESPR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 277/901] ETHM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 278/901] ETOR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 279/901] EUDA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 280/901] EVGN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 281/901] EVRG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 282/901] EWCZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 283/901] EXE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 284/901] EXOZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 285/901] EXPO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 286/901] EYPT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 287/901] FA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 288/901] FARM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 289/901] FATE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 290/901] FBIZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 291/901] FBRX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 292/901] FCCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 293/901] FCNCA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 294/901] FDMT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 295/901] FDX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 296/901] FEED: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 297/901] FENC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 298/901] FFBC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 299/901] FGBI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 300/901] FGNX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 301/901] FICO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 302/901] FINW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 303/901] FISV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 304/901] FIVN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 305/901] FLD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 306/901] FLL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 307/901] FLWS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 308/901] FLYW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 309/901] FMNB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 310/901] FNLC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 311/901] FOLD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 312/901] FORR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 313/901] FOXF: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 314/901] FRD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 315/901] FRMEP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 316/901] FRPT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 317/901] FSBC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 318/901] FSHP: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=FSHP
+2026-01-21 05:19:38 [W3 319/901] FSUN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 320/901] FTDR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 321/901] FTHM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 322/901] FTRK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 323/901] FULT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 324/901] FUSB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 325/901] FWDI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 326/901] FWRG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 327/901] GAIA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 328/901] GAINZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 329/901] GANX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 330/901] GBFH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 331/901] GCL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 332/901] GD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 333/901] GDEV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:38 [W3 334/901] GDYN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 335/901] GECCH: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=GECCH
+2026-01-21 05:19:39 [W3 336/901] GEGGL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 337/901] GEN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 338/901] GEV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 339/901] GGR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 340/901] GIFI: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=GIFI
+2026-01-21 05:19:39 [W3 341/901] GIII: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 342/901] GIS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 343/901] GLAD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 344/901] GLE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 345/901] GLNG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 346/901] GLSI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 347/901] GLXG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 348/901] GMHS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 349/901] GNPX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 350/901] GO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 351/901] GOOG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 352/901] GP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 353/901] GPRE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 354/901] GRAN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 355/901] GREEL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 356/901] GROW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 357/901] GS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 358/901] GSHR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 359/901] GSRF: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 360/901] GTEC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 361/901] GTLB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 362/901] GUTS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 363/901] GWRS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 364/901] GYRO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:39 [W3 365/901] HALO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:40 [W3 366/901] HAVAR: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=HAVAR
+2026-01-21 05:19:40 [W3 367/901] HBCP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 368/901] HBT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 369/901] HCHL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 370/901] HCTI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 371/901] HELE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 372/901] HFFG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 373/901] HIFS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 374/901] HIND: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 375/901] HKIT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 376/901] HLNE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 377/901] HNNA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 378/901] HNVR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 379/901] HON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 380/901] HOUR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 381/901] HPE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 382/901] HQY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 383/901] HRTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 384/901] HSDT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 385/901] HSTM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 386/901] HTCR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 387/901] HTO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 388/901] HUBC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 389/901] HUM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 390/901] HURN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 391/901] HWBK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 392/901] HWKN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 393/901] HYFT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 394/901] HYPR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 395/901] IBCP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 396/901] IBKR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 397/901] ICCC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 398/901] ICHR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 399/901] ICU: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 400/901] IDN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 401/901] IESC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 402/901] IFRX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 403/901] III: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 404/901] ILMN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 405/901] IMG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 406/901] IMNM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 407/901] IMRX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 408/901] IMUX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 409/901] INAC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 410/901] INBX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 411/901] INDI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 412/901] INGN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 413/901] INM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 414/901] INO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 415/901] INSM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 416/901] INTJ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 417/901] INTZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 418/901] INVH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 419/901] IOSP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 420/901] IPAR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 421/901] IPGP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 422/901] IPST: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 423/901] IQV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 424/901] IREN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 425/901] IRON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 426/901] ISBA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 427/901] ISRG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 428/901] ITIC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 429/901] ITRN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 430/901] IVP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 431/901] IZEA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 432/901] JAGX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 433/901] JAZZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 434/901] JBL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 435/901] JCI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 436/901] JEM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 437/901] JKHY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 438/901] JNJ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 439/901] JRVR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 440/901] JUNS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 441/901] JYD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 442/901] KALU: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 443/901] KCHV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 444/901] KELYA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 445/901] KEYS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 446/901] KGEI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 447/901] KIM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 448/901] KLAC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 449/901] KLTR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 450/901] KMI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 451/901] KNSA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 452/901] KOSS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 453/901] KPTI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 454/901] KRNY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 455/901] KRUS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 456/901] KTOS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 457/901] KVAC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 458/901] KXIN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 459/901] KYTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 460/901] LAES: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 461/901] LAND: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 462/901] LASR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 463/901] LBRDA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 464/901] LBTYB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 465/901] LCID: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 466/901] LDWY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 467/901] LEE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 468/901] LESL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 469/901] LFST: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 470/901] LGCB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 471/901] LGN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 472/901] LH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 473/901] LICN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 474/901] LII: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 475/901] LIN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 476/901] LINK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 477/901] LITS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 478/901] LKFN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 479/901] LLYVA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 480/901] LMFA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 481/901] LNAI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 482/901] LNT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 483/901] LOBO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 484/901] LONA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 485/901] LOW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 486/901] LPLA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 487/901] LQDA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 488/901] LRMR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 489/901] LSE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 490/901] LTBR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 491/901] LUCY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 492/901] LUV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 493/901] LVS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 494/901] LWLG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 495/901] LYEL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 496/901] LYV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 497/901] MAA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 498/901] MAMA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 499/901] MAPS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 500/901] MAS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 501/901] MAT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 502/901] MAYS: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=MAYS
+2026-01-21 05:19:41 [W3 503/901] MBAV: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 504/901] MBINL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:41 [W3 505/901] MBLY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 506/901] MBVI: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=MBVI
+2026-01-21 05:19:42 [W3 507/901] MCD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 508/901] MCHP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 509/901] MCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 510/901] MCW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 511/901] MDCX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 512/901] MDLZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 513/901] MDXG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 514/901] MEHA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 515/901] MERC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 516/901] METCB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 517/901] MFIC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 518/901] MGIC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 519/901] MGNI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 520/901] MGRT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 521/901] MGYR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 522/901] MIND: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 523/901] MITK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 524/901] MKSI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 525/901] MLAB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 526/901] MLGO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 527/901] MLYS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 528/901] MMTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 529/901] MNDY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 530/901] MNRO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 531/901] MNTK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 532/901] MOBX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 533/901] MORN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 534/901] MPB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 535/901] MQ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 536/901] MRCY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 537/901] MRNO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 538/901] MRVL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 539/901] MSBI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 540/901] MSGM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 541/901] MSTR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 542/901] MTCH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 543/901] MTEX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 544/901] MU: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 545/901] MWYN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 546/901] MYGN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 547/901] MYSE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 548/901] NAGE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 549/901] NAMS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 550/901] NAVI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 551/901] NBIS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 552/901] NCEL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 553/901] NCMI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 554/901] NCSM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 555/901] NDRA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 556/901] NEGG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 557/901] NEON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 558/901] NESR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 559/901] NEWTI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 560/901] NEXT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 561/901] NGEN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 562/901] NI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 563/901] NIXX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 564/901] NKTR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 565/901] NMIH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 566/901] NMTC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 567/901] NNNN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 568/901] NOEM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 569/901] NOW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 570/901] NRC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 571/901] NRIX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 572/901] NSIT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 573/901] NSYS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 574/901] NTGR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 575/901] NTNX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 576/901] NTRS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 577/901] NUAI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 578/901] NUTX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 579/901] NVCR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 580/901] NVMI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 581/901] NVTS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 582/901] NWFL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 583/901] NWSA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 584/901] NXPI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 585/901] NXTC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 586/901] NYXH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 587/901] OAKU: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 588/901] OBTC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 589/901] OCFC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 590/901] OCSL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 591/901] ODYS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 592/901] OFLX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 593/901] OGI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 594/901] OKUR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 595/901] OLLI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 596/901] OMC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 597/901] OMEX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 598/901] ONB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 599/901] ONCY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 600/901] ONFO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 601/901] OPCH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 602/901] OPRX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 603/901] ORCL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 604/901] ORIO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 605/901] ORKT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 606/901] OS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 607/901] OSRH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 608/901] OSW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 609/901] OTLK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 610/901] OVID: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 611/901] OXLC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 612/901] OXLCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 613/901] OXSQH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 614/901] PAA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 615/901] PAHC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 616/901] PANL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 617/901] PASW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 618/901] PAX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 619/901] PAYX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 620/901] PBYI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 621/901] PCB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 622/901] PCSA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 623/901] PCVX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 624/901] PDLB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 625/901] PEBO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 626/901] PELI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 627/901] PEPG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 628/901] PETZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 629/901] PFG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 630/901] PFXNZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 631/901] PGEN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 632/901] PH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 633/901] PHM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 634/901] PI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 635/901] PKOH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 636/901] PLBL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 637/901] PLMK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 638/901] PLRZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 639/901] PLTS: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=PLTS
+2026-01-21 05:19:42 [W3 640/901] PLUT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 641/901] PMCB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 642/901] PMTS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 643/901] PNC: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 644/901] PNW: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 645/901] POET: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 646/901] POWI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 647/901] PPCB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 648/901] PPSI: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 649/901] PRCH: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 650/901] PRFX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 651/901] PRLD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 652/901] PROP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 653/901] PRQR: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 654/901] PRTS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 655/901] PSA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 656/901] PSIX: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 657/901] PSNY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 658/901] PTCT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 659/901] PTLO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 660/901] PUBM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 661/901] PWP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 662/901] PYPD: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 663/901] Q: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 664/901] QDEL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 665/901] QMCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 666/901] QNTM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 667/901] QS: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 668/901] QTTB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 669/901] QURE: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 670/901] RAIN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 671/901] RAPP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 672/901] RAY: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 673/901] RBCAA: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 674/901] RCKT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:42 [W3 675/901] RCON: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 676/901] RDCM: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 677/901] RDNT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 678/901] RDZN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 679/901] RECT: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 680/901] REG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 681/901] RELL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 682/901] REPL: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 683/901] RF: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 684/901] RGCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 685/901] RGP: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 686/901] RICK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 687/901] RILYK: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 688/901] RILYZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 689/901] RIVN: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 690/901] RKLB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 691/901] RLYB: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 692/901] RMCO: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 693/901] RMSG: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 694/901] RNAZ: SKIP up-to-date last_local=2026-01-20
+2026-01-21 05:19:43 [W3 695/901] RNXT: OK mode=incremental used=RNXT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:43 [W3 696/901] ROK: OK mode=incremental used=ROK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:44 [W3 697/901] ROOT: OK mode=incremental used=ROOT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:44 [W3 698/901] RPD: OK mode=incremental used=RPD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:44 [W3 699/901] RPTX: OK mode=incremental used=RPTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:45 [W3 700/901] RRR: OK mode=incremental used=RRR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:45 [W3 701/901] RTAC: OK mode=incremental used=RTAC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:45 [W3 702/901] RUN: OK mode=incremental used=RUN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:46 [W3 703/901] RVPH: OK mode=incremental used=RVPH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:46 [W3 704/901] RVYL: OK mode=incremental used=RVYL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:47 [W3 705/901] RXRX: OK mode=incremental used=RXRX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:47 [W3 706/901] RYM: OK mode=incremental used=RYM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:47 [W3 707/901] RZLV: OK mode=incremental used=RZLV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:48 [W3 708/901] SAFX: OK mode=incremental used=SAFX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:48 [W3 709/901] SAIH: OK mode=incremental used=SAIH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:49 [W3 710/901] SANG: OK mode=incremental used=SANG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:49 [W3 711/901] SAVA: OK mode=incremental used=SAVA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:49 [W3 712/901] SBET: OK mode=incremental used=SBET window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:50 [W3 713/901] SBLK: OK mode=incremental used=SBLK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:50 [W3 714/901] SCHL: OK mode=incremental used=SCHL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:51 [W3 715/901] SCNX: OK mode=incremental used=SCNX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:51 [W3 716/901] SCWO: OK mode=incremental used=SCWO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:51 [W3 717/901] SDHI: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=SDHI
+2026-01-21 05:19:52 [W3 718/901] SEAT: OK mode=incremental used=SEAT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:52 [W3 719/901] SEGG: OK mode=incremental used=SEGG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:52 [W3 720/901] SENEA: OK mode=incremental used=SENEA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:53 [W3 721/901] SERA: OK mode=incremental used=SERA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:53 [W3 722/901] SEZL: OK mode=incremental used=SEZL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:54 [W3 723/901] SFIX: OK mode=incremental used=SFIX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:54 [W3 724/901] SFWL: OK mode=incremental used=SFWL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:54 [W3 725/901] SGHT: OK mode=incremental used=SGHT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:55 [W3 726/901] SGMT: OK mode=incremental used=SGMT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:55 [W3 727/901] SHC: OK mode=incremental used=SHC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:56 [W3 728/901] SHIP: OK mode=incremental used=SHIP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:56 [W3 729/901] SHOP: OK mode=incremental used=SHOP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:56 [W3 730/901] SIDU: OK mode=incremental used=SIDU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:57 [W3 731/901] SILC: OK mode=incremental used=SILC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:57 [W3 732/901] SION: OK mode=incremental used=SION window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:58 [W3 733/901] SJM: OK mode=incremental used=SJM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:58 [W3 734/901] SKWD: OK mode=incremental used=SKWD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:58 [W3 735/901] SKYW: OK mode=incremental used=SKYW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:59 [W3 736/901] SLDB: OK mode=incremental used=SLDB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:59 [W3 737/901] SLGB: OK mode=incremental used=SLGB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:19:59 [W3 738/901] SLNG: OK mode=incremental used=SLNG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:00 [W3 739/901] SLRC: OK mode=incremental used=SLRC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:00 [W3 740/901] SMBC: OK mode=incremental used=SMBC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:01 [W3 741/901] SMMT: OK mode=incremental used=SMMT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:01 [W3 742/901] SMTI: OK mode=incremental used=SMTI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:01 [W3 743/901] SNA: OK mode=incremental used=SNA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:02 [W3 744/901] SNCY: OK mode=incremental used=SNCY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:02 [W3 745/901] SNDX: OK mode=incremental used=SNDX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:03 [W3 746/901] SNGX: OK mode=incremental used=SNGX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:03 [W3 747/901] SNT: OK mode=incremental used=SNT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:03 [W3 748/901] SNYR: OK mode=incremental used=SNYR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:04 [W3 749/901] SOFI: OK mode=incremental used=SOFI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:04 [W3 750/901] SOLV: OK mode=incremental used=SOLV window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:04 [W3 751/901] SOPH: OK mode=incremental used=SOPH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:05 [W3 752/901] SOWG: OK mode=incremental used=SOWG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:05 [W3 753/901] SPFI: OK mode=incremental used=SPFI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:06 [W3 754/901] SPKL: OK mode=incremental used=SPKL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:06 [W3 755/901] SPRC: OK mode=incremental used=SPRC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:06 [W3 756/901] SPT: OK mode=incremental used=SPT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:07 [W3 757/901] SRAD: OK mode=incremental used=SRAD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:07 [W3 758/901] SRPT: OK mode=incremental used=SRPT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:08 [W3 759/901] SRZN: OK mode=incremental used=SRZN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:08 [W3 760/901] SSKN: OK mode=incremental used=SSKN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:08 [W3 761/901] SSRM: OK mode=incremental used=SSRM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:09 [W3 762/901] SSYS: OK mode=incremental used=SSYS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:09 [W3 763/901] STBA: OK mode=incremental used=STBA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:10 [W3 764/901] STFS: OK mode=incremental used=STFS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:10 [W3 765/901] STIM: OK mode=incremental used=STIM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:10 [W3 766/901] STLD: OK mode=incremental used=STLD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:11 [W3 767/901] STRL: OK mode=incremental used=STRL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:11 [W3 768/901] STRT: OK mode=incremental used=STRT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:11 [W3 769/901] STTK: OK mode=incremental used=STTK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:12 [W3 770/901] SUIG: OK mode=incremental used=SUIG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:12 [W3 771/901] SUPX: OK mode=incremental used=SUPX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:13 [W3 772/901] SVAC: OK mode=incremental used=SVAC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:13 [W3 773/901] SVRA: OK mode=incremental used=SVRA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:13 [W3 774/901] SWBI: OK mode=incremental used=SWBI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:14 [W3 775/901] SWKHL: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=SWKHL
+2026-01-21 05:20:14 [W3 776/901] SXTP: OK mode=incremental used=SXTP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:14 [W3 777/901] SYK: OK mode=incremental used=SYK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:15 [W3 778/901] SYRE: OK mode=incremental used=SYRE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:15 [W3 779/901] TACH: OK mode=incremental used=TACH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:16 [W3 780/901] TANH: OK mode=incremental used=TANH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:16 [W3 781/901] TARA: OK mode=incremental used=TARA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:16 [W3 782/901] TAVI: no new bars (2026-01-20 -> 2026-01-20) mode=incremental used=TAVI
+2026-01-21 05:20:17 [W3 783/901] TBH: OK mode=incremental used=TBH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:17 [W3 784/901] TBMC: OK mode=incremental used=TBMC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:18 [W3 785/901] TCBK: OK mode=incremental used=TCBK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:19 [W3 786/901] TCRT: OK mode=incremental used=TCRT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:19 [W3 787/901] TDG: OK mode=incremental used=TDG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:19 [W3 788/901] TDY: OK mode=incremental used=TDY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:20 [W3 789/901] TECX: OK mode=incremental used=TECX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:20 [W3 790/901] TEM: OK mode=incremental used=TEM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:20 [W3 791/901] TERN: OK mode=incremental used=TERN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:21 [W3 792/901] TGL: OK mode=incremental used=TGL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:21 [W3 793/901] THAR: OK mode=incremental used=THAR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:22 [W3 794/901] THRM: OK mode=incremental used=THRM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:22 [W3 795/901] TIL: OK mode=incremental used=TIL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:22 [W3 796/901] TITN: OK mode=incremental used=TITN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:23 [W3 797/901] TKNO: OK mode=incremental used=TKNO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:23 [W3 798/901] TLN: OK mode=incremental used=TLN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:24 [W3 799/901] TLS: OK mode=incremental used=TLS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:24 [W3 800/901] TMCI: OK mode=incremental used=TMCI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:24 [W3 801/901] TMUSI: OK mode=incremental used=TMUSI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:25 [W3 802/901] TNGX: OK mode=incremental used=TNGX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:25 [W3 803/901] TNYA: OK mode=incremental used=TNYA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:26 [W3 804/901] TOP: OK mode=incremental used=TOP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:26 [W3 805/901] TPCS: OK mode=incremental used=TPCS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:26 [W3 806/901] TPR: OK mode=incremental used=TPR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:27 [W3 807/901] TREE: OK mode=incremental used=TREE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:27 [W3 808/901] TRINI: OK mode=incremental used=TRINI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:28 [W3 809/901] TRMD: OK mode=incremental used=TRMD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:28 [W3 810/901] TRON: OK mode=incremental used=TRON window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:28 [W3 811/901] TRSG: OK mode=incremental used=TRSG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:29 [W3 812/901] TRUP: OK mode=incremental used=TRUP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:29 [W3 813/901] TSBK: OK mode=incremental used=TSBK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:30 [W3 814/901] TSLA: OK mode=incremental used=TSLA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:30 [W3 815/901] TTAN: OK mode=incremental used=TTAN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:30 [W3 816/901] TTGT: OK mode=incremental used=TTGT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:31 [W3 817/901] TUSK: OK mode=incremental used=TUSK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:31 [W3 818/901] TVRD: OK mode=incremental used=TVRD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:32 [W3 819/901] TWFG: OK mode=incremental used=TWFG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:32 [W3 820/901] TWNP: OK mode=incremental used=TWNP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:32 [W3 821/901] TXN: OK mode=incremental used=TXN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:33 [W3 822/901] TYL: OK mode=incremental used=TYL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:33 [W3 823/901] UBCP: OK mode=incremental used=UBCP window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:34 [W3 824/901] UBXG: OK mode=incremental used=UBXG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:34 [W3 825/901] UDMY: OK mode=incremental used=UDMY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:34 [W3 826/901] UFG: OK mode=incremental used=UFG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:35 [W3 827/901] UGRO: OK mode=incremental used=UGRO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:35 [W3 828/901] ULBI: OK mode=incremental used=ULBI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:35 [W3 829/901] ULY: OK mode=incremental used=ULY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:36 [W3 830/901] UNH: OK mode=incremental used=UNH window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:36 [W3 831/901] UOKA: OK mode=incremental used=UOKA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:37 [W3 832/901] UPBD: OK mode=incremental used=UPBD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:37 [W3 833/901] UPST: OK mode=incremental used=UPST window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:37 [W3 834/901] URGN: OK mode=incremental used=URGN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:38 [W3 835/901] USAU: OK mode=incremental used=USAU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:38 [W3 836/901] USEG: OK mode=incremental used=USEG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:39 [W3 837/901] UTHR: OK mode=incremental used=UTHR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:39 [W3 838/901] UYSC: OK mode=incremental used=UYSC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:39 [W3 839/901] VALU: OK mode=incremental used=VALU window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:40 [W3 840/901] VC: OK mode=incremental used=VC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:40 [W3 841/901] VCTR: OK mode=incremental used=VCTR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:41 [W3 842/901] VEEE: OK mode=incremental used=VEEE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:41 [W3 843/901] VERO: OK mode=incremental used=VERO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:41 [W3 844/901] VFS: OK mode=incremental used=VFS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:42 [W3 845/901] VICI: OK mode=incremental used=VICI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:42 [W3 846/901] VIRC: OK mode=incremental used=VIRC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:43 [W3 847/901] VKTX: OK mode=incremental used=VKTX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:43 [W3 848/901] VLY: OK mode=incremental used=VLY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:43 [W3 849/901] VNCE: OK mode=incremental used=VNCE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:44 [W3 850/901] VOR: OK mode=incremental used=VOR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:44 [W3 851/901] VRAX: OK mode=incremental used=VRAX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:45 [W3 852/901] VRM: OK mode=incremental used=VRM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:45 [W3 853/901] VRSK: OK mode=incremental used=VRSK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:45 [W3 854/901] VSAT: OK mode=incremental used=VSAT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:46 [W3 855/901] VSNT: OK mode=incremental used=VSNT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:46 [W3 856/901] VSTM: OK mode=incremental used=VSTM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:46 [W3 857/901] VTSI: OK mode=incremental used=VTSI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:47 [W3 858/901] VVOS: OK mode=incremental used=VVOS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:47 [W3 859/901] VYNE: OK mode=incremental used=VYNE window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:48 [W3 860/901] WAFD: OK mode=incremental used=WAFD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:48 [W3 861/901] WALD: OK mode=incremental used=WALD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:48 [W3 862/901] WAY: OK mode=incremental used=WAY window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:49 [W3 863/901] WCT: OK mode=incremental used=WCT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:49 [W3 864/901] WEC: OK mode=incremental used=WEC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:50 [W3 865/901] WERN: OK mode=incremental used=WERN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:50 [W3 866/901] WEYS: OK mode=incremental used=WEYS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:50 [W3 867/901] WFRD: OK mode=incremental used=WFRD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:51 [W3 868/901] WHFCL: OK mode=incremental used=WHFCL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:51 [W3 869/901] WILC: OK mode=incremental used=WILC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:52 [W3 870/901] WIX: OK mode=incremental used=WIX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:52 [W3 871/901] WLDN: OK mode=incremental used=WLDN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:52 [W3 872/901] WM: OK mode=incremental used=WM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:53 [W3 873/901] WNEB: OK mode=incremental used=WNEB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:53 [W3 874/901] WORX: OK mode=incremental used=WORX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:54 [W3 875/901] WRLD: OK mode=incremental used=WRLD window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:54 [W3 876/901] WSBK: OK mode=incremental used=WSBK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:54 [W3 877/901] WSM: OK mode=incremental used=WSM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:55 [W3 878/901] WTF: OK mode=incremental used=WTF window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:55 [W3 879/901] WTW: OK mode=incremental used=WTW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:56 [W3 880/901] WW: OK mode=incremental used=WW window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:56 [W3 881/901] WYFI: OK mode=incremental used=WYFI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:56 [W3 882/901] XBIT: OK mode=incremental used=XBIT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:57 [W3 883/901] XELB: OK mode=incremental used=XELB window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:57 [W3 884/901] XFOR: OK mode=incremental used=XFOR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:58 [W3 885/901] XMTR: OK mode=incremental used=XMTR window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:58 [W3 886/901] XOMAO: OK mode=incremental used=XOMAO window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:59 [W3 887/901] XPON: OK mode=incremental used=XPON window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:20:59 [W3 888/901] XRX: OK mode=incremental used=XRX window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:00 [W3 889/901] XWIN: OK mode=incremental used=XWIN window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:00 [W3 890/901] YAAS: OK mode=incremental used=YAAS window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:00 [W3 891/901] YHC: OK mode=incremental used=YHC window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:01 [W3 892/901] YMAT: OK mode=incremental used=YMAT window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:01 [W3 893/901] YUM: OK mode=incremental used=YUM window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:02 [W3 894/901] ZBAI: OK mode=incremental used=ZBAI window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:02 [W3 895/901] ZBRA: OK mode=incremental used=ZBRA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:03 [W3 896/901] ZENA: OK mode=incremental used=ZENA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:03 [W3 897/901] ZG: OK mode=incremental used=ZG window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:03 [W3 898/901] ZJYL: OK mode=incremental used=ZJYL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:04 [W3 899/901] ZNTL: OK mode=incremental used=ZNTL window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:04 [W3 900/901] ZTEK: OK mode=incremental used=ZTEK window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:05 [W3 901/901] ZVRA: OK mode=incremental used=ZVRA window=2026-01-20->2026-01-20 rows=1 written=1 last_date=2026-01-20
+2026-01-21 05:21:05 [W3] DONE symbols=901 written_partitions=204 up_to_date=684 no_data=13 failed=0 elapsed=89.3s

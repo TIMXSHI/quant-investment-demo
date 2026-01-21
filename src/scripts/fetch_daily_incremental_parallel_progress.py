@@ -14,6 +14,7 @@ import pandas as pd
 import requests
 import yaml
 from dotenv import load_dotenv
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # -------------------------
 # Config
@@ -31,7 +32,6 @@ DATA_ROOT = Path("data/raw/polygon/1day")
 
 LOG_DIR = Path("logs")
 LOG_DIR.mkdir(parents=True, exist_ok=True)
-FAILED_CSV = LOG_DIR / "daily_fetch_failed.csv"
 
 BASE_SLEEP_SEC = 0.15
 MAX_RETRIES = 6
@@ -41,10 +41,6 @@ MAX_RETRIES = 6
 # Helpers
 # -------------------------
 def last_business_day_simple(d: date) -> date:
-    """
-    Simple weekend rollback (no holiday calendar).
-    For US holidays, Polygon will simply return no bar for that date anyway.
-    """
     while d.weekday() >= 5:
         d -= timedelta(days=1)
     return d
@@ -126,24 +122,6 @@ def _done_marker(symbol: str) -> Path:
     return DATA_ROOT / f"symbol={symbol}" / "_DONE.marker"
 
 
-def append_failed(symbol: str, error: str) -> None:
-    new_file = not FAILED_CSV.exists()
-    with FAILED_CSV.open("a", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        if new_file:
-            w.writerow(["ts_utc", "symbol", "error"])
-        w.writerow([pd.Timestamp.utcnow().isoformat(), symbol, error])
-
-
-def load_failed_symbols() -> List[str]:
-    if not FAILED_CSV.exists():
-        return []
-    df = pd.read_csv(FAILED_CSV)
-    if "symbol" not in df.columns:
-        return []
-    return sorted(set(df["symbol"].astype(str).str.upper().str.strip().tolist()))
-
-
 def read_marker_last_date(symbol: str) -> Optional[date]:
     p = _done_marker(symbol)
     if not p.exists():
@@ -153,7 +131,6 @@ def read_marker_last_date(symbol: str) -> Optional[date]:
         last_date = meta.get("last_date")
         if last_date:
             return datetime.fromisoformat(str(last_date)).date()
-        # fallback: if old marker only has window.end
         window = meta.get("window") or {}
         end_s = window.get("end")
         if end_s:
@@ -164,24 +141,16 @@ def read_marker_last_date(symbol: str) -> Optional[date]:
 
 
 def scan_fs_last_date(symbol: str) -> Optional[date]:
-    """
-    Fallback: scan data/raw partitions for this symbol and find max date.
-    Assumes folders:
-      symbol=XXX/year=YYYY/month=MM/day=DD/bars.parquet
-    """
     sym_root = DATA_ROOT / f"symbol={symbol}"
     if not sym_root.exists():
         return None
 
-    # Fast-ish: only scan day folders that actually have bars.parquet
-    # (365 files per symbol is OK)
     max_d: Optional[date] = None
     for p in sym_root.rglob("bars.parquet"):
         try:
-            # .../year=YYYY/month=MM/day=DD/bars.parquet
-            day_part = p.parent.name  # day=DD
-            month_part = p.parent.parent.name  # month=MM
-            year_part = p.parent.parent.parent.name  # year=YYYY
+            day_part = p.parent.name
+            month_part = p.parent.parent.name
+            year_part = p.parent.parent.parent.name
             dd = int(day_part.split("=")[1])
             mm = int(month_part.split("=")[1])
             yy = int(year_part.split("=")[1])
@@ -194,9 +163,6 @@ def scan_fs_last_date(symbol: str) -> Optional[date]:
 
 
 def get_last_local_date(symbol: str) -> Optional[date]:
-    """
-    Prefer marker (cheap), else scan filesystem.
-    """
     d = read_marker_last_date(symbol)
     if d is not None:
         return d
@@ -249,7 +215,6 @@ def fetch_daily_bars_with_fallback(session: requests.Session, ticker: str, start
         alt = ticker.replace(".", "-")
         df2 = fetch_daily_bars(session, alt, start, end)
         if not df2.empty:
-            # keep original symbol for folder partitioning
             df2["symbol"] = ticker
             return df2, alt
 
@@ -276,93 +241,105 @@ def save_partitioned_by_day(df: pd.DataFrame) -> int:
 
 
 # -------------------------
-# CLI
+# Worker: logging helpers
 # -------------------------
-@dataclass
-class Args:
-    only_failed: bool
-    shard_index: int
-    shard_count: int
-    max_symbols: Optional[int]
-    lookback_if_missing: int
-    end: Optional[str]
+def _wlog(log_path: Path, msg: str) -> None:
+    ts = pd.Timestamp.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+    line = f"{ts} {msg}"
+    print(line, flush=True)
+    log_path.parent.mkdir(parents=True, exist_ok=True)
+    with log_path.open("a", encoding="utf-8") as f:
+        f.write(line + "\n")
 
 
-def parse_args() -> Args:
-    p = argparse.ArgumentParser()
-    p.add_argument("--only-failed", action="store_true", help="Only fetch symbols listed in logs/daily_fetch_failed.csv")
-    p.add_argument("--shard-index", type=int, default=0, help="Shard index (0-based)")
-    p.add_argument("--shard-count", type=int, default=1, help="Total shards")
-    p.add_argument("--max-symbols", type=int, default=None, help="Optional cap for safety")
-    p.add_argument("--lookback-if-missing", type=int, default=365, help="If symbol has no local data, fetch past N days")
-    p.add_argument("--end", default=None, help="Override end date (YYYY-MM-DD). Default: last business day of yesterday")
-    a = p.parse_args()
-    return Args(
-        only_failed=a.only_failed,
-        shard_index=a.shard_index,
-        shard_count=a.shard_count,
-        max_symbols=a.max_symbols,
-        lookback_if_missing=int(a.lookback_if_missing),
-        end=a.end,
-    )
+def _append_failed_worker(failed_path: Path, symbol: str, error: str) -> None:
+    new_file = not failed_path.exists()
+    failed_path.parent.mkdir(parents=True, exist_ok=True)
+    with failed_path.open("a", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        if new_file:
+            w.writerow(["ts_utc", "symbol", "error"])
+        w.writerow([pd.Timestamp.utcnow().isoformat(), symbol, error])
 
 
-def main() -> None:
-    args = parse_args()
+# -------------------------
+# Worker logic (runs in a separate process)
+# -------------------------
+def run_shard(
+    worker_id: int,
+    shard_index: int,
+    shard_count: int,
+    end_date: date,
+    only_failed: bool,
+    max_symbols: Optional[int],
+    lookback_if_missing: int,
+    print_every: int,
+) -> Dict[str, Any]:
+    """
+    Process a shard of symbols. Return summary + shard preview for main process.
+    """
     session = _session()
 
-    if args.end:
-        end_date = datetime.fromisoformat(args.end).date()
-    else:
-        # Run after market close: usually "yesterday" is safe
-        end_date = last_business_day_simple(date.today() - timedelta(days=1))
+    log_path = LOG_DIR / f"fetch_worker_{worker_id}.log"
+    failed_path = LOG_DIR / f"daily_fetch_failed.worker{worker_id}.csv"
 
     universe = load_universe_symbols(UNIVERSE_PATH)
+    if only_failed:
+        # main process will also pass only_failed; we still filter here
+        # (each worker reads same CSV list; OK)
+        base_failed = set()
+        # if previous merged file exists, use it; else ignore
+        merged = LOG_DIR / "daily_fetch_failed.csv"
+        if merged.exists():
+            try:
+                df = pd.read_csv(merged)
+                base_failed = set(df["symbol"].astype(str).str.upper().str.strip().tolist())
+            except Exception:
+                base_failed = set()
+        universe = [s for s in universe if s in base_failed]
 
-    if args.only_failed:
-        failed = set(load_failed_symbols())
-        universe = [s for s in universe if s in failed]
-        print(f"Mode=only_failed | symbols={len(universe)}")
-    else:
-        print(f"Mode=universe | symbols={len(universe)}")
+    shard = shard_symbols(universe, shard_index, shard_count)
 
-    universe = shard_symbols(universe, args.shard_index, args.shard_count)
-    print(f"Shard {args.shard_index}/{args.shard_count} -> {len(universe)} symbols")
+    if max_symbols is not None:
+        shard = shard[: max_symbols]
 
-    if args.max_symbols is not None:
-        universe = universe[: args.max_symbols]
-        print(f"Cap max_symbols={args.max_symbols} -> {len(universe)} symbols")
+    # shard summary
+    preview = {
+        "count": len(shard),
+        "head": shard[:5],
+        "tail": shard[-5:] if len(shard) > 5 else shard,
+    }
+    _wlog(log_path, f"[W{worker_id}] shard_index={shard_index}/{shard_count} symbols={preview['count']} head={preview['head']} tail={preview['tail']}")
 
-    print(f"End date target: {end_date}")
-    print(f"Output root: {DATA_ROOT.resolve()}")
+    written_partitions = 0
+    up_to_date = 0
+    no_data = 0
+    failed_cnt = 0
 
-    total_written = 0
-    total_no_new = 0
-    total_no_data = 0
-    total_failed = 0
+    t0 = time.time()
 
-    for i, sym in enumerate(universe, start=1):
+    for idx, sym in enumerate(shard, start=1):
+        prefix = f"[W{worker_id} {idx:,}/{len(shard):,}] {sym}"
         try:
             last_local = get_last_local_date(sym)
 
             if last_local is None:
-                # first-time / missing symbol data -> backfill lookback window
-                start_date = end_date - timedelta(days=args.lookback_if_missing)
+                start_date = end_date - timedelta(days=lookback_if_missing)
                 mode = "bootstrap"
             else:
                 start_date = last_local + timedelta(days=1)
                 mode = "incremental"
 
             if start_date > end_date:
-                total_no_new += 1
-                print(f"[{i}/{len(universe)}] {sym}: SKIP (up-to-date) last_local={last_local}")
+                up_to_date += 1
+                if (idx % print_every) == 0 or idx == 1:
+                    _wlog(log_path, f"{prefix}: SKIP up-to-date last_local={last_local}")
                 continue
 
             df, used_ticker = fetch_daily_bars_with_fallback(session, sym, start_date, end_date)
 
             if df.empty:
-                total_no_data += 1
-                # update marker anyway, keep last_local
+                no_data += 1
                 write_marker(
                     sym,
                     {
@@ -375,10 +352,11 @@ def main() -> None:
                         "generated_at_utc": pd.Timestamp.utcnow().isoformat(),
                     },
                 )
-                print(f"[{i}/{len(universe)}] {sym}: no new bars returned ({start_date} -> {end_date})")
+                _wlog(log_path, f"{prefix}: no new bars ({start_date} -> {end_date}) mode={mode} used={used_ticker}")
+
             else:
                 written = save_partitioned_by_day(df)
-                total_written += written
+                written_partitions += written
                 new_last = max(df["date"].tolist()) if "date" in df.columns else last_local
 
                 write_marker(
@@ -395,18 +373,149 @@ def main() -> None:
                         "generated_at_utc": pd.Timestamp.utcnow().isoformat(),
                     },
                 )
-                print(f"[{i}/{len(universe)}] {sym}: mode={mode} rows={len(df)} written={written} last_date={new_last}")
+
+                _wlog(
+                    log_path,
+                    f"{prefix}: OK mode={mode} used={used_ticker} window={start_date}->{end_date} rows={len(df)} written={written} last_date={new_last}",
+                )
 
         except Exception as e:
-            total_failed += 1
-            append_failed(sym, repr(e))
-            print(f"[{i}/{len(universe)}] {sym}: ERROR -> {e}")
+            failed_cnt += 1
+            _append_failed_worker(failed_path, sym, repr(e))
+            _wlog(log_path, f"{prefix}: ERROR -> {e}")
 
         time.sleep(BASE_SLEEP_SEC)
 
-    print(
-        f"\n[DONE] written_partitions={total_written} | up_to_date={total_no_new} | no_data={total_no_data} | failed={total_failed} | failed_log={FAILED_CSV}"
+    elapsed = time.time() - t0
+    _wlog(log_path, f"[W{worker_id}] DONE symbols={len(shard)} written_partitions={written_partitions} up_to_date={up_to_date} no_data={no_data} failed={failed_cnt} elapsed={elapsed:.1f}s")
+
+    return {
+        "worker_id": worker_id,
+        "preview": preview,
+        "written_partitions": written_partitions,
+        "up_to_date": up_to_date,
+        "no_data": no_data,
+        "failed": failed_cnt,
+        "symbols": len(shard),
+        "failed_path": str(failed_path),
+    }
+
+
+# -------------------------
+# CLI
+# -------------------------
+@dataclass
+class Args:
+    only_failed: bool
+    max_symbols: Optional[int]
+    lookback_if_missing: int
+    end: Optional[str]
+    workers: int
+    print_every: int
+
+
+def parse_args() -> Args:
+    p = argparse.ArgumentParser()
+    p.add_argument("--only-failed", action="store_true", help="Only fetch symbols listed in logs/daily_fetch_failed.csv")
+    p.add_argument("--max-symbols", type=int, default=None, help="Optional cap for safety (applies per worker shard)")
+    p.add_argument("--lookback-if-missing", type=int, default=365, help="If symbol has no local data, fetch past N days")
+    p.add_argument("--end", default=None, help="Override end date (YYYY-MM-DD). Default: last business day of yesterday")
+    p.add_argument("--workers", type=int, default=4, help="Parallel workers (e.g., 1/2/4)")
+    p.add_argument("--print-every", type=int, default=1, help="Print SKIP lines every N symbols (default 1 = always)")
+    a = p.parse_args()
+    return Args(
+        only_failed=a.only_failed,
+        max_symbols=a.max_symbols,
+        lookback_if_missing=int(a.lookback_if_missing),
+        end=a.end,
+        workers=int(a.workers),
+        print_every=int(a.print_every),
     )
+
+
+def merge_failed_csvs(worker_failed_paths: List[str], merged_path: Path) -> None:
+    rows = []
+    for p in worker_failed_paths:
+        pp = Path(p)
+        if not pp.exists():
+            continue
+        try:
+            df = pd.read_csv(pp)
+            if df.empty:
+                continue
+            rows.append(df)
+        except Exception:
+            continue
+
+    if not rows:
+        return
+
+    merged = pd.concat(rows, ignore_index=True)
+    merged.to_csv(merged_path, index=False)
+
+
+def main() -> None:
+    args = parse_args()
+
+    if args.end:
+        end_date = datetime.fromisoformat(args.end).date()
+    else:
+        end_date = last_business_day_simple(date.today() - timedelta(days=1))
+
+    workers = max(1, int(args.workers))
+    shard_count = workers
+
+    print(f"End date target: {end_date}")
+    print(f"Workers: {workers}")
+    print(f"Output root: {DATA_ROOT.resolve()}")
+    print(f"Worker logs: {LOG_DIR.resolve()}\\fetch_worker_*.log")
+    print()
+
+    t0 = time.time()
+
+    results: List[Dict[str, Any]] = []
+    with ProcessPoolExecutor(max_workers=workers) as ex:
+        futures = [
+            ex.submit(
+                run_shard,
+                worker_id=i,
+                shard_index=i,
+                shard_count=shard_count,
+                end_date=end_date,
+                only_failed=args.only_failed,
+                max_symbols=args.max_symbols,
+                lookback_if_missing=args.lookback_if_missing,
+                print_every=args.print_every,
+            )
+            for i in range(workers)
+        ]
+
+        for fut in as_completed(futures):
+            results.append(fut.result())
+
+    total_written = sum(r["written_partitions"] for r in results)
+    total_up_to_date = sum(r["up_to_date"] for r in results)
+    total_no_data = sum(r["no_data"] for r in results)
+    total_failed = sum(r["failed"] for r in results)
+    total_symbols = sum(r["symbols"] for r in results)
+    failed_paths = [r["failed_path"] for r in results]
+
+    # Merge failed logs
+    merged_failed = LOG_DIR / "daily_fetch_failed.csv"
+    merge_failed_csvs(failed_paths, merged_failed)
+
+    elapsed = time.time() - t0
+
+    print("\n--- Shard allocation summary ---")
+    for r in sorted(results, key=lambda x: x["worker_id"]):
+        prev = r["preview"]
+        print(f"W{r['worker_id']}: symbols={prev['count']} head={prev['head']} tail={prev['tail']}")
+
+    print(
+        f"\n[DONE] symbols={total_symbols} | written_partitions={total_written} | up_to_date={total_up_to_date} "
+        f"| no_data={total_no_data} | failed={total_failed} | elapsed={elapsed:.1f}s"
+    )
+    print(f"[FAILED] merged failed csv: {merged_failed}")
 
 
 if __name__ == "__main__":
